@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 Interested in:distributed system, algorithm, blockchain, microservices and compiler
 - 📚 Learning implement interpreters and compilers by reading [craftinginterpreters](http://craftinginterpreters.com)
 - 💬 Solve one algorithm problem per day(almost) at [leetcode](https://leetcode-cn.com/u/milkygreen/)
-- 👷 Working at [ClickPaaS](https://www.clickpaas.com/),an aowesome low-code company in China
+- 👷 Working at an aowesome low-code company in China
 - 👀 Learning english by reading tech blog , listening podcast and watching TV show 😁
