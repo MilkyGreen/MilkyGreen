@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 familiar with Java, know some GO, learning C
-- 🌱 interested in:distributed system, algorithm, blockchain, microservices and compiler
-- 📚 learning implement interpreters and compilers by reading [craftinginterpreters](http://craftinginterpreters.com)
-- 💬 solve one algorithm problem per day(almost) at [leetcode](https://leetcode-cn.com/u/milkygreen/)
-- 👷 working at [ClickPaaS](https://www.clickpaas.com/),an aowesome low-code company in China
-- 👀 learning english by reading tech blog , listening podcast and watching TV show 😁
+- 🔭 Familiar with Java, know some GO, learning C
+- 🌱 Interested in:distributed system, algorithm, blockchain, microservices and compiler
+- 📚 Learning implement interpreters and compilers by reading [craftinginterpreters](http://craftinginterpreters.com)
+- 💬 Solve one algorithm problem per day(almost) at [leetcode](https://leetcode-cn.com/u/milkygreen/)
+- 👷 Working at [ClickPaaS](https://www.clickpaas.com/),an aowesome low-code company in China
+- 👀 Learning english by reading tech blog , listening podcast and watching TV show 😁
