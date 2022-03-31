@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📚 learning implement interpreters and compilers by reading [craftinginterpreters](http://craftinginterpreters.com)
 - 💬 solve one algorithm problem per day(almost) at [leetcode](https://leetcode-cn.com/u/milkygreen/)
 - 👷 working at [ClickPaaS](https://www.clickpaas.com/),an aowesome low-code company in China
-- 👀 learn english by reading tech blog , listening podcast and watching TV show 😁
+- 👀 learning english by reading tech blog , listening podcast and watching TV show 😁
