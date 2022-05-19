@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Familiar with Java, used Go , C and JS
-- Interested in: distributed system, algorithm, blockchain, compiler and interpreter
-- Solving a algorithm problem per day(almost) at [leetcode](https://leetcode-cn.com/u/milkygreen/)
-- Working at an aowesome low-code company in China
-- Learning English by reading tech blogs , listening podcasts and watching TVshows 😁
+- Familiar with Java, used Go , C and JS.
+- Interested in: distributed system, algorithm, blockchain, compiler and interpreter.
+- Solving a algorithm problem per day(almost) at [leetcode](https://leetcode-cn.com/u/milkygreen/).
+- Working at an aowesome low-code company in China.
+- Learning English everyday.
