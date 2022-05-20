@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - Learning English everyday.
 
 <img src="svg/github.svg">
+
+<img src="svg/leetcode.svg">
+
+<img src="svg/duolingo.svg">
