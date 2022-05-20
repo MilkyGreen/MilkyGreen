@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 - Working at an aowesome low-code company in China.
 - Learning English everyday.
 
-<img src="svg/github.svg">
+<img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/github.svg">
 
-<img src="svg/leetcode.svg">
+<img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/duolingo.svg">
 
-
-<img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/9edc1dd9bc032bf5335eafd82cb2491bb9b84733/examples/duolingo.svg">
+<img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/duolingo.svg">
