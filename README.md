@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - Working at an aowesome low-code company in China.
 - Learning English everyday.
 
-https://github.com/yihong0618/GitHubPoster/blob/main/examples/duolingo.svg
+[http-bw]:https://github.com/yihong0618/GitHubPoster/blob/main/examples/duolingo.svg
