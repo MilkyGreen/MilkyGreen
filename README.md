@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 <img src="svg/leetcode.svg">
 
-<img src="svg/duolingo.svg">
+<img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/9edc1dd9bc032bf5335eafd82cb2491bb9b84733/examples/duolingo.svg">
