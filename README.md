@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - Interested in: distributed system,algorithm,blockchain,compiler and interpreter.
 - Learning new stuff everyday(almost)
 
-<img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/github.svg">
-
 <img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/leetcode.svg">
 
 <img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/duolingo.svg">
