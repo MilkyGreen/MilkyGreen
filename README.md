@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/leetcode.svg">
 
 <img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/duolingo.svg">
+
+<img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/shanbay.svg">
