@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Familiar with Java. Used: Go, C, JS.
-- Interested in: distributed system,algorithm,blockchain,compiler and interpreter.
+- Interested in: distributed system, algorithm, blockchain, interpreter, and compiler.
 - Learning new stuff everyday(almost)
 
 <!--
