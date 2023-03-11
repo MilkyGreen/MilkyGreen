@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Familiar with Java. Used: Go, C, JS.
+- Familiar with Java, know Go C JS
 - Interested in: distributed system, algorithm, blockchain, interpreter, and compiler.
 - Learning new stuff everyday(almost)
+- I’m currently learning neural networks
 
 <!--
 <img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/leetcode.svg">
