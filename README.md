@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - Familiar with Java, know Go C JS
 - Interested in: distributed system, algorithm, blockchain, interpreter, and compiler.
 - Learning new stuff everyday(almost)
-- I’m currently learning neural networks
 
 <!--
 <img src="https://raw.githubusercontent.com/MilkyGreen/GitHubPoster/main/examples/leetcode.svg">
