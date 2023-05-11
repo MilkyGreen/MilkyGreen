@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Familiar with Java, know Go C JS
+- Familiar with Java, know Go, C, JS and Python
 - Interested in: distributed system, algorithm, blockchain, interpreter, and compiler.
 - Learning new stuff everyday(almost)
 
